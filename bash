@@ -1,4 +1,7 @@
-.github/workslows/windows-build.yml
+.github
+└── workflows
+    └── windows-build.yml
+
 name: Build Windows EXE
 
 on:
